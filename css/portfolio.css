@@ -12,6 +12,7 @@
   --address-color: rgba(255, 255, 255, 0.6);
   --header-frame-color: #ececec;
   --icon-fill: #afb1b8;
+  --footer-icons-bg: rgba(255, 255, 255, 0.1);
 }
 
 *::selection {
@@ -32,7 +33,7 @@ body {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
-  outline: red dashed;
+  /* outline: red dashed; */
 }
 
 /* Шапка сайту */
